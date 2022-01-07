@@ -38,22 +38,22 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "antd-design-grid-layout",
+  "name": "antd-grid-layout",
   "author": "Culi",
-  "module": "dist/my-grid-layout.esm.js",
+  "module": "dist/antd-grid-layout.esm.js",
   "size-limit": [
     {
-      "path": "dist/my-grid-layout.cjs.production.min.js",
+      "path": "dist/antd-grid-layout.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/my-grid-layout.esm.js",
+      "path": "dist/antd-grid-layout.esm.js",
       "limit": "10 KB"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nmthanh206/antd-design-grid-layout"
+    "url": "https://github.com/nmthanh206/antd-grid-layout"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
