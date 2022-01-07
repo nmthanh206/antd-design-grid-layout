@@ -1,7 +1,7 @@
 {
   "description": "Only the layout part of antd library",
   "title": "Ant Design Grid Layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
