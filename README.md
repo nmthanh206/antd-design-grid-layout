@@ -6,7 +6,6 @@
 
 <h1 align="center">Antd Grid Layout</h1>
 
-<div align="center">
 
 
 
@@ -61,7 +60,7 @@ import 'antd-grid-layout/styles/antd-grid-layout.css';
 
 ### TypeScript
 
-`ant-design-layout` is written in TypeScript with complete definitions, check [Use in TypeScript](https://ant.design/docs/react/use-in-typescript) to getting started.
+`antd-grid-layout` is written in TypeScript with complete definitions, check [Use in TypeScript](https://ant.design/docs/react/use-in-typescript) to getting started.
 
 ## 🔗 Links
 
